@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there 👋, i'm Okolie Elizabeth Onyenme
+## Data Analyst| Accountant | Financial insight Enthusiast
 
+Welcome to my GitHub space. This space is where data meets financial intelligence. I combine strong analytical thinking with solid accounting knowledge to turn raw data into meaningful insights that drive smart decisions.
 <!--
 **onyenme/onyenme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
