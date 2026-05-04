@@ -19,47 +19,73 @@ c. Continuously improving my analytical skills with real business problem by  us
 ## Data Analytics Skills
 
 Tools and Technologies                                                                                                     
+
 i. Microsoft Excel (Advanced formulas, PivotTables, Dashboards)
+
 ii. Python (Data analysis and automation)
+
 iii. Power BI / Data Visualization Tools
+
 iv. SQL (Data querying & database management)
 
 Analytical Techniques
+
 i. Data Cleaning and Transformation
+
 ii. Exploratory Data Analysis (EDA)
+
 iii. Statistical Analysis
+
 iv. Data Visualization and Storytelling
+
 v. Dashboard Creation and Reporting
 
 ## Accounting Skills
+
 i. Sage 50 and Quickbooks
+
 ii. Bank Reconcillation
+
 iii. Auditing Principles
+
 iv. Taxation Basics
+
 v. Financial Reporting and Analysis
+
 vi. Financial Statement Preparation
 
 
 ## What makes Me Different
 I don't just analyze data. I follow procedures in understanding the actual financial meaning that is behind it.
+
 This unique Combination allows me to:
+
 a. Translate complex financial data correctly into a simple insights.
+
 b. Supports business decisions by making use of analytical and accounting perspectives.
+
 c. Build solutions that are not just techincal but also pratically useful.
 
 
 ## Featured Projects (Coming Alive)
 Here, you'll find projects that reflects:
+
 i. Real-world financial data analysis.
+
 ii. Data-driven decision-making models.
+
 iii. Business performance dashboard.
 
 
 ## Let's Connect
 I am open to:
+
 a. Remote jobs
+
 b. Internship opportunities
+
 c. Data analytics collaborations
+
 d. Accounting and Finance-related projects
 
 "NUMBERS TELL STORIES WHILE I MAKE SURE THEY ARE PROPERLY UNDERSTOOD"
