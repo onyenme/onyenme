@@ -8,6 +8,7 @@ Welcome to my GitHub space. This space is where data meets financial intelligenc
 i hold a B.SC. in Accounting, and i am deeply passionate about using my skills in data analystics to solve real-world financial problems including that of the issues arising in today's businesses.  With the help of my foundation in accounting principles and a growing expertise in data tools. I can confidently bridge the gap between numbers on paper and also actionable insights. 
 
 I enjoy:
+
 a. Analyzing financial data to uncover trends and patterns.
 b. Building dashboards that tell clear, compelling stories.
 c. Continuously improving my analytical skills with real business problem by  using data-driven approaches.
