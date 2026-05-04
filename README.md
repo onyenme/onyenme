@@ -77,6 +77,13 @@ ii. Data-driven decision-making models.
 iii. Business performance dashboard.
 
 
+## I'm Currently Growing in
+
+a. Adavanced python for Data Analysis
+
+b. Machine Learning Fundamentals
+
+
 ## Let's Connect
 I am open to:
 
