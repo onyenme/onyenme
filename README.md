@@ -96,6 +96,7 @@ c. Data analytics collaborations
 d. Accounting and Finance-related projects
 
 
+
 "NUMBERS TELL STORIES WHILE I MAKE SURE THEY ARE PROPERLY UNDERSTOOD"
 
                                                                                                                             
