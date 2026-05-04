@@ -13,7 +13,9 @@ c. Continuously improving my analytical skills with real business problem by  us
 
 
 ## Data Analytics Skills
-                                                                                                                          Tools and Technologies                                                                                                     i. Microsoft Excel (Advanced formulas, PivotTables, Dashboards)
+
+Tools and Technologies                                                                                                     
+i. Microsoft Excel (Advanced formulas, PivotTables, Dashboards)
 ii. Python (Data analysis and automation)
 iii. Power BI / Data Visualization Tools
 iv. SQL (Data querying & database management)
