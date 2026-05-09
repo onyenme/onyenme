@@ -3,7 +3,24 @@
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=onyenme&show_icons=true&theme=tokyonight" />
 Welcome to my GitHub space. This space is where data meets financial intelligence. I combine strong analytical thinking with solid accounting knowledge to turn raw data into meaningful insights that drive smart decisions.
+# 💫 About Me:
+Churn dataset<br>
 
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Onyenme) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Okolie Elizabeth ) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Lizzy) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Okolie Elizabeth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:okolieelizabeth40@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Onyenme&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Onyenme&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Onyenme&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Onyenme&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## About Me
 i hold a B.SC. in Accounting, and i am deeply passionate about using my skills in data analystics to solve real-world financial problems including that of the issues arising in today's businesses.  With the help of my foundation in accounting principles and a growing expertise in data tools. I can confidently bridge the gap between numbers on paper and also actionable insights. 
