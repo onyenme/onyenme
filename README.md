@@ -1,6 +1,6 @@
 ## Hi there 👋, i'm Okolie Elizabeth Onyenme
 ## Data Analyst| Accountant | Financial insight Enthusiast
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onyenme&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=onyenme&show_icons=true&theme=tokyonight" />
 Welcome to my GitHub space. This space is where data meets financial intelligence. I combine strong analytical thinking with solid accounting knowledge to turn raw data into meaningful insights that drive smart decisions.
 
 
