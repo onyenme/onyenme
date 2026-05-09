@@ -3,8 +3,19 @@
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=onyenme&show_icons=true&theme=tokyonight" />
 Welcome to my GitHub space. This space is where data meets financial intelligence. I combine strong analytical thinking with solid accounting knowledge to turn raw data into meaningful insights that drive smart decisions.
+
+
 # 💫 About Me:
-Churn dataset<br>
+
+i hold a B.SC. in Accounting, and i am deeply passionate about using my skills in data analystics to solve real-world financial problems including that of the issues arising in today's businesses.  With the help of my foundation in accounting principles and a growing expertise in data tools. I can confidently bridge the gap between numbers on paper and also actionable insights. 
+
+I enjoy:
+
+a. Analyzing financial data to uncover trends and patterns.
+
+b. Building dashboards that tell clear, compelling stories.
+
+c. Continuously improving my analytical skills with real business problem by  using data-driven approaches.
 
 
 ## 🌐 Socials:
@@ -21,17 +32,6 @@ Churn dataset<br>
 [![](https://komarev.com/ghpvc/?username=Onyenme&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## About Me
-i hold a B.SC. in Accounting, and i am deeply passionate about using my skills in data analystics to solve real-world financial problems including that of the issues arising in today's businesses.  With the help of my foundation in accounting principles and a growing expertise in data tools. I can confidently bridge the gap between numbers on paper and also actionable insights. 
-
-I enjoy:
-
-a. Analyzing financial data to uncover trends and patterns.
-
-b. Building dashboards that tell clear, compelling stories.
-
-c. Continuously improving my analytical skills with real business problem by  using data-driven approaches.
 
 
 ## Data Analytics Skills
